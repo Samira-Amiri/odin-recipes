@@ -1,1 +1,1 @@
-this project is just to build your HTML
+Recipes project using HTML.
